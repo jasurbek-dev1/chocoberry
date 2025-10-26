@@ -3,7 +3,7 @@ import "./Menu.css";
 import logo from "../assets/logo.jpg";
 
 // Rasmlarni import qilamiz
-import cake1 from "../assets/cake1.jpg";
+import cake1 from "../assets/cake1.jpg";  
 import cake2 from "../assets/cake2.jpg";
 import cake3 from "../assets/cae3.jpg";
 import cake4 from "../assets/cake4.jpg";
